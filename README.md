@@ -1,4 +1,4 @@
-### inheritance-project
+### Inheritance Project
 
 ### April 7, 2016
 
